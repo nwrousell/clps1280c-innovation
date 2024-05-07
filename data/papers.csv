@@ -1,0 +1,11 @@
+,title,countries_distinct_count,institutions_distinct_count,cited_by_count,publication_year,id,num_authors,total_author_domain_count,mean_author_domain_count,max_author_domain_count,total_author_field_count,mean_author_field_count,max_author_field_count,total_author_subfield_count,mean_author_subfield_count,max_author_subfield_count
+0,Design and Implementation of Medicine Dispenser,1,1,2,2019,https://openalex.org/W2961408987,1,2,2.0,2,3,3.0,3,6,6.0,6
+1,Assertion based Inductive Verification Methods for Logic Programs,1,2,4,2001,https://openalex.org/W2026039894,3,4,2.6666666666666665,4,10,5.0,7,20,10.333333333333334,15
+2,Dynamic Filter: Adaptive Query Processing with the Crowd,1,1,7,2017,https://openalex.org/W2794104530,4,4,2.25,4,12,4.5,12,30,8.75,24
+3,Generalize Sentence Representation with Self-Inference,1,1,1,2020,https://openalex.org/W2998391095,2,4,2.5,4,9,5.0,9,16,8.5,16
+4,Data from Algorithmic guided screening of drug combinations of arbitrary size for activity against cancer cells,0,0,0,2023,https://openalex.org/W4361954065,14,4,2.7857142857142856,3,20,5.571428571428571,9,79,13.428571428571429,19
+5,Cryptanalysis of QARMAv2,2,1,0,2024,https://openalex.org/W4392387539,2,4,2.5,4,6,4.0,6,13,8.0,13
+6,Changes in object salience influences overt attentional prioritization in natural scenes.,1,1,0,2016,https://openalex.org/W2571480931,2,4,4.0,4,13,9.0,10,27,15.5,16
+7,Docentes ecuatorianos de comunicación: presencia y uso de las redes científicas académicas,1,2,2,2016,https://openalex.org/W2564306902,2,3,2.5,3,6,4.5,6,16,11.5,15
+8,Framing as a method of creating a film's metaphorical context,1,1,0,2019,https://openalex.org/W3008982391,1,1,1.0,1,1,1.0,1,1,1.0,1
+9,cHybriDroid: A Machine Learning-Based Hybrid Technique for Securing the Edge Computing,3,4,8,2020,https://openalex.org/W3107207360,6,4,3.1666666666666665,4,16,7.0,10,42,13.333333333333334,17

@@ -1,5 +1,6 @@
 # Academic Papers Innovation Analysis
 
+**Dataset creation script and analysis can be found in the Data Creation & Analysis notebook**
+
 ### Resources
-- [Graph of Science datasets](https://gist.github.com/VladimirAlexiev/fafdcb258d067cfed272664d6ae5d982)
-- [CrossRef API docs](https://github.com/CrossRef/rest-api-doc#resource-components)
+- [OpenAlex Docs](https://docs.openalex.org/)
